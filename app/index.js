@@ -61,7 +61,7 @@ const addToPage = (specs) => {
     </div>
     </div>
     `
-    const container = document.querySelector('.container');
+    const container = document.querySelector('.container_1');
     if (container.innerHTML !== ''){
         container.innerHTML = ''
     }
